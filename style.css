@@ -158,9 +158,9 @@ header > small {
 
 
 
-@media(width > 320px) and (width <= 600px){
+@media(width > 100px) and (width <= 600px){
   #studentList > .list-item{
-    grid-column: span 4;
+    grid-column: span 12;
 
   } 
  
